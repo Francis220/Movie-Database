@@ -102,6 +102,12 @@ section {
 	height: 100vh;
 	background-color: #445565;
 	overflow-y: scroll;
+	background-image: url("./assets/background.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat; 
+	height: 100vh;
+	min-width: 100vh;
 }
 
 .popup .content {
